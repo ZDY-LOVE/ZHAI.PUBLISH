@@ -1,6 +1,4 @@
-# ZHAI.PUBLISH
-
-一个个人开发的windows资源管理器...
+# ZHAI 资源管理器
 
 ![](1.jpg)
 
