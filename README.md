@@ -10,18 +10,18 @@
 ZHAI 资源管理器的想法诞生于我（ZDY）的个人兴趣，我会在我有限的空闲时间里维护这个软件。我承诺绝不在程序中暗藏任何商业广告、木马，但不承诺为使用 ZHAI 的后果承担任何责任。如果您需要将它用于商业目的，或加入您的网站，请与我联系，否则我将保留追究一切责任的权利！
 </p>
 
-<div style="margin-top:14px;"></div>
+<br/>
 
-<div style="box-shadow: 0 0 5px 1px #b6b6b6;">
-    <img src="1.jpg"/>
+<div>
+    <img src="1.jpg" style="box-shadow: 0 0 5px 1px #b6b6b6;"/>
 </div>
 
-<div style="box-shadow: 0 0 5px 1px #b6b6b6;">
-    <img src="2.jpg"/>
+<div>
+    <img src="2.jpg" style="box-shadow: 0 0 5px 1px #b6b6b6;"/>
 </div>
 
-<div style="box-shadow: 0 0 5px 1px #b6b6b6;">
-    <img src="3.jpg"/>
+<div >
+    <img src="3.jpg" style="box-shadow: 0 0 5px 1px #b6b6b6;"/>
 </div>
 
 ## 软件下载
