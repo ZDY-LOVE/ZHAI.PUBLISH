@@ -14,19 +14,19 @@ ZHAI 资源管理器的想法诞生于我（ZDY）的个人兴趣，我会在我
 
 <div style="box-shadow: 0 0 5px 1px #b6b6b6;">
 
-    ![](1.jpg)
+![这是图片](1.jpg)
 
 </div>
 
 <div style="box-shadow: 0 0 5px 1px #b6b6b6;">
 
-    ![](2.jpg)
+![这是图片](1.jpg)
 
 </div>
 
 <div style="box-shadow: 0 0 5px 1px #b6b6b6;">
 
-    ![](3.jpg)
+![这是图片](1.jpg)
 
 </div>
 
