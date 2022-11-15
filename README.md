@@ -12,16 +12,16 @@ ZHAI 资源管理器的想法诞生于我（ZDY）的个人兴趣，我会在我
 
 <br/>
 
-<p align="center" style="box-shadow: 0 0 5px 1px #b6b6b6;">
-    <img src="1.jpg" style="max-width: 100%;"/>
+<p align="center">
+    <kbd> <img src="1.jpg" /> </kbd>
 </p>
 
-<p align="center" style="box-shadow: 0 0 5px 1px #b6b6b6;">
-    <img src="2.jpg" style="max-width: 100%;"/>
+<p align="center">
+    <kbd> <img src="2.jpg" /> </kbd>
 </p>
 
-<p align="center" style="box-shadow: 0 0 5px 1px #b6b6b6;">
-    <img src="3.jpg" style="max-width: 100%;"/>
+<p align="center">
+    <kbd> <img src="3.jpg" /> </kbd>
 </p>
 
 ## 软件下载
