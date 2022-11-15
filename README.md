@@ -12,16 +12,22 @@ ZHAI 资源管理器的想法诞生于我（ZDY）的个人兴趣，我会在我
 
 <br/>
 
-<div>
-    <img src="1.jpg" style="box-shadow: 0 0 5px 1px #b6b6b6;"/>
+<div style="box-shadow: 0 0 5px 1px #b6b6b6;">
+
+    ![](1.jpg)
+
 </div>
 
-<div>
-    <img src="2.jpg" style="box-shadow: 0 0 5px 1px #b6b6b6;"/>
+<div style="box-shadow: 0 0 5px 1px #b6b6b6;">
+
+    ![](2.jpg)
+
 </div>
 
-<div >
-    <img src="3.jpg" style="box-shadow: 0 0 5px 1px #b6b6b6;"/>
+<div style="box-shadow: 0 0 5px 1px #b6b6b6;">
+
+    ![](3.jpg)
+
 </div>
 
 ## 软件下载
